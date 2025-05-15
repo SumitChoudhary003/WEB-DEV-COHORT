@@ -1,0 +1,30 @@
+ANS 1- agr kio comapany apne product m ya app m kuch features add krn chati h toh us company developer vcs
+use krke different department ki sath collaborate krke jo features ki need h uski according km kr skte h 
+bina kisi conflict ki.
+
+ANS 2- distributed vcs mixture hota h local vcs k or centralized vcs k ism developer ki pss copy hoti h code ki
+centralized vcs me ek server hota h jo ki code ko store rkhta h jiski through developer add krte h code collaborate
+krni ki liye.
+
+ANS 3- git ek free oprn source distributed vcs h.
+github me hm code/project ko host krte h ye open source or public hota h hmre code/project kio bhi dekh 
+skta h ye mainly comapny me benefit krta h or hackthon kli tym p bhi.
+
+ANS4- hmre pss multiple files hai jism se kuch commit honi ki liye tayyar h or bki nhi h 
+ye condition staging area ki h.
+
+ANS 5- ye contain krta sara internal data git hmre code ko track krni ki liye
+
+ANS 6- git branch hmre project lki saari branch ko show krta h kitni h 
+by default ye master(main branch) hoti h agr hm cahahe toh new branch create kr skte h git branch branch_name 
+ye use krke or agr ek branch se dusri branch pe jna h toh hm git checkout branch_name ye use krke ja skte h.
+
+ANS 7 - git reset ki andr sirf head ki shifting hoti h ye permanently reset nhi hota h.
+git hard ki andr changes permanently delete ho jata h after commit.
+
+ANS 8- iski andr sare commit ko combine krke ek single commit ki andr hota h jb main branch m merge 
+ke tb 
+
+ANS 9 - agr meri team kisi project p kmm kri h or team me 5 members h jin me se 4 members fasr=t km kre h 
+or 1 member slow work kra h toh iss tym p bki 4 member fast h vo jldi krke commit kr denge but 1 member slow 
+vo late commit krega but jb krega toh uss tym p commit confuse ho jyega kyuki already 4 ni commit kra hua h.

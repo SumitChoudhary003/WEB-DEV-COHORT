@@ -1,0 +1,5 @@
+ans1 Backtick(` `)
+ans2 array of characters
+ans3 lowercase 
+ans4 all
+ans5 boolean
